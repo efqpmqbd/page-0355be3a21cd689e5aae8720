@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "16f12e2a407bbab332324b18",
+  "owner": "efqpmqbd",
+  "repo": "page-0355be3a21cd689e5aae8720",
+  "title": "VeChain",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0355be3a21cd689e5aae8720",
+      "a": "VeChain",
+      "b": "",
+      "entity": "VeChain",
+      "brand": "VeChain",
+      "separator": "",
+      "path": "index.html",
+      "hash": "49323dda42aa3c1eda4a71082a81990556557277e58ab9eef154a7b2b0030100",
+      "content": {
+        "keyword1": "VeChain",
+        "keyword2": "",
+        "primary_entity": "VeChain",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "VeChain提供可靠的VPN梯子与机场订阅方案，官方网站可下载多端客户端，实现网络加速、流媒体解锁和游戏优化，套餐灵活覆盖个人与团队需求。",
+          "AI_DESCRIPTION": "VeChain提供可靠的VPN梯子与机场订阅方案，官方网站可下载多端客户端，实现网络加速、流媒体解锁和游戏优化，套餐灵活覆盖个人与团队需求。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;margin:0;padding:0;background:#0a1628;color:#cde8ff;line-height:1.65;font-size:16px}.wrap{max-width:920px;margin:0 auto;padding:12px 16px}header{background:#06101c;border-bottom:1px solid #22d3ee;padding:10px 0}nav{display:flex;flex-wrap:wrap;justify-content:center;gap:10px}nav a{color:#67e8f9;text-decoration:none;font-size:0.95rem;font-weight:600}h1{color:#22d3ee;font-size:1.75rem;text-align:center;margin:20px 0 10px}.sub{text-align:center;color:#7dd3fc;margin-bottom:24px}h2{color:#67e8f9;font-size:1.35rem;margin:28px 0 12px;padding-bottom:4px;border-bottom:1px solid #1e3a5f}h3{color:#a5f3fc;font-size:1.1rem;margin:16px 0 8px}p{margin:8px 0}.cards{display:flex;flex-wrap:wrap;gap:12px;margin:16px 0}.card{flex:1 1 240px;background:#0f2744;border:1px solid #1e4976;border-radius:6px;padding:14px}.featured{border:1px solid #22d3ee;background:#12304f}.price{font-size:1.4rem;color:#22d3ee;font-weight:700;margin:8px 0}.annual{font-size:0.9rem;color:#94a3b8}ul{margin:8px 0;padding-left:18px}li{margin:4px 0}ol{padding-left:20px}details{background:#0d2137;margin:6px 0;border-radius:4px;padding:10px 12px}summary{font-weight:600;color:#67e8f9}a{color:#22d3ee}footer{background:#06101c;margin-top:32px;padding:16px 0;text-align:center;font-size:0.85rem;color:#64748b;border-top:1px solid #1e3a5f}footer a{color:#67e8f9;margin:0 6px}@media(max-width:600px){nav{gap:6px}h1{font-size:1.5rem}.card{flex:1 1 100%}}</style><header><div class=\"wrap\"><nav><a href=\"#\">首页</a><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#plans\">套餐</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><div class=\"wrap\"><h1>VeChain</h1><p class=\"sub\">官方网络加速服务 · VPN梯子 · 机场订阅 · 多端客户端</p><section id=\"intro\"><h2>品牌简介</h2><p>VeChain 面向需要稳定跨境连接的用户，提供VPN梯子与机场订阅服务。我们整合优质线路资源，强调低延迟传输与持续可用，帮助完成流媒体访问、游戏加速和远程协作。客户端覆盖常见桌面与移动系统，订阅导入流程简洁，适合个人日常使用与小团队共享。</p><p>服务以官方网站为唯一分发与账户入口，用户可在此查看套餐、完成配置指引并获取客户端。节点池区分普通线路与专线优化，按套餐开放相应能力，避免功能堆砌造成选择困扰。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>海外流媒体</h3><p>在支持解锁的节点上观看常见平台内容，减少卡顿，适合追剧与直播回看。基础套餐覆盖常用站点，高阶套餐提供更完整的原生解锁。</p><h3>在线游戏与主机加速</h3><p>旗舰及以上套餐含 IPLC 专线优化，用于降低对战与匹配延迟。适合需要相对稳定链路的玩家，具体体验仍受本地网络影响。</p><h3>远程办公与云服务</h3><p>访问企业邮箱、文档协作与云主机时保持连接连续性，减少中途断开。团队版可按企业需求调整路由策略。</p><h3>资料检索与在线学习</h3><p>查阅公开学术资源、课程平台与开发文档时使用智能分流，日常浏览走本地，跨境请求走加速节点。</p></section><section id=\"guide\"><h2>操作说明与配置流程</h2><p>VeChain 将配置流程控制在较少步骤，方便首次使用的用户快速上线。请按顺序完成，避免跳过订阅校验。</p><ol><li>在套餐区选定版本，按月或按年开通账户。</li><li>登录官网控制台，复制专属机场订阅链接（或获取二维码）。</li><li>前往客户端下载区获取对应系统安装包，仅使用官方来源。</li><li>安装后打开客户端，选择添加订阅，粘贴链接并更新节点列表。</li><li>根据场景选择节点（流媒体、游戏或自动），开启连接与分流规则。</li></ol><p>同一订阅可在套餐允许的设备数内重复导入。更换设备时重新下载客户端即可，无需重复购买。若节点延迟升高，优先切换协议或区域，再考虑提交工单。</p></section><section id=\"plans\"><h2>套餐方案</h2><div class=\"cards\"><div class=\"card\"><h3>基础版</h3><div class=\"price\">¥15/月</div><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card featured\"><h3>旗舰版</h3><div class=\"price\">¥35/月</div><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><div class=\"price\">¥85/月</div><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><p>流量按自然月重置，设备数指同时在线会话。可随时在账户内升级。官方不承诺特定应用 100% 解锁，实际以当时节点状态为准。</p></section><section id=\"download\"><h2>客户端下载</h2><p>请仅通过 VeChain 官网获取安装文件，以便校验版本与更新通道。当前提供以下客户端形态：</p><ul><li>Windows 桌面客户端</li><li>macOS 应用</li><li>Android 安装包</li><li>iOS 描述文件或商店版本指引</li><li>通用订阅配置（兼容常见代理工具）</li></ul><p><a href=\"#download\">前往官方下载</a> 选择系统后安装，首次启动按照配置流程导入订阅。路由器与软路由用户可使用通用配置，需自行确认兼容性。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>如何从官网下载 VeChain 客户端？</summary><p>打开本页下载区或官网指定入口，按操作系统选择安装包。不要使用网盘或论坛转载文件，以免版本滞后或被篡改。安装完成后回到账户复制订阅链接。</p></details><details><summary>机场订阅怎样导入到客户端？</summary><p>在官网账户复制订阅 URL，于客户端的订阅/配置页面粘贴并更新。部分移动端支持扫描控制台二维码。导入成功后节点列表会自动出现，可按延迟或用途筛选。</p></details><details><summary>三个套餐的流量和设备限制分别是什么？</summary><p>基础版每月 100GB、3 台同时在线；旗舰版 300GB、5 台；团队版 1000GB、20 台。流量用尽可升级或等待下月重置。同时在线超出限制时新会话会失败，断开闲置设备即可。</p></details><details><summary>是否支持流媒体解锁和游戏 IPLC 加速？</summary><p>基础版提供基础流媒体线路。旗舰版与团队版开放全节点原生解锁，并含 IPLC 游戏优化。效果因平台策略和时段变化，建议先用旗舰版试用再决定是否升级。</p></details><details><summary>连接失败或速度慢应如何排查？</summary><p>先更换节点与协议，确认本地网络与系统时间正常，再重新导入订阅。旗舰与团队用户可走优先工单。检查是否有其他代理软件抢占端口，避免规则冲突。</p></details><details><summary>VeChain 如何处理日志与隐私？</summary><p>连接过程不记录访问内容明细。必要的连接元数据仅用于故障排查与容量规划，保存周期有限。账户信息用于计费与设备数控制，请妥善保管登录凭证。</p></details></section><section><h2>合作展示</h2><p>本站预留相关网络工具与加速产品的展示位置，用于官方合作信息同步。具体投放请通过官网公示渠道联系，不接受非相关类目。</p></section><section><h2>友情链接</h2><p><a href=\"#\">网络优化笔记</a> · <a href=\"#\">客户端使用手册</a> · <a href=\"#\">线路质量观察</a> · <a href=\"#\">开发者工具集</a></p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>VeChain 官方网站 · VPN梯子与网络加速器服务</p><p><a href=\"#\">站点地图</a><a href=\"#\">隐私说明</a><a href=\"#\">服务条款</a></p><p>通过官网完成客户端下载与机场订阅配置。保留品牌服务说明权利。</p></div></footer>",
+          "hash": "52f28874843122eddfd3b5ce40a32b99ee9992ca565efc6f7ad4b4589b04a3ec",
+          "seo": {
+            "title": "VeChain官网 - 高速VPN梯子网络加速器与客户端下载",
+            "keywords": "VeChain,VeChain VPN,VeChain机场,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅",
+            "description": "VeChain提供可靠的VPN梯子与机场订阅方案，官方网站可下载多端客户端，实现网络加速、流媒体解锁和游戏优化，套餐灵活覆盖个人与团队需求。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "eszlzp.cn",
+    "host": "p-52c0687f1d.eszlzp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "eszlzp.cn",
+      "url": "https://eszlzp.cn/",
+      "label": "速鹰",
+      "apex": "eszlzp.cn",
+      "kind": null,
+      "identity": "jaxqghhgjxu/page-dedf7f8137a9ade14f4e86c7"
+    },
+    {
+      "host": "dagwe.cn",
+      "url": "https://dagwe.cn/",
+      "label": "VeChain",
+      "apex": "dagwe.cn",
+      "kind": null,
+      "identity": "wfcywcta/page-5a04de8d1180370660f2692e"
+    },
+    {
+      "host": "dsjxjy.cn",
+      "url": "https://dsjxjy.cn/",
+      "label": "VeChain",
+      "apex": "dsjxjy.cn",
+      "kind": null,
+      "identity": "cwcqqj/page-bbdb76458d06b5b9c0cfec33"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b17dfc6f7081e98c6ee3583d1783412033daea5475159e2d6631f72bef1ad887",
+    "sitemap.xml": "d1b1e218062653816e42ba98e1720b4a5188ce0288ef225723dbafbfa3d31421",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "75223aa543b2354e81f0f1559299cafadab5dc00248a1cc41f2d9455849e1c4f",
+    "robots.txt": "61c628bd91d7398ff373c2f56b4c3ea678116739fcf93188069d0f51ffe82584",
+    "7329c5a81eac24696424da8881461650.txt": "23ff0e571aab995a75dc4d723d23e0a55ad6d28e091b88f5c2e133e7f70e3fd1"
+  },
+  "revision": "48bf15bfaf9009c0111406b178019e1f5b25decb40b0609382a8d4880eebfdd3"
+}
